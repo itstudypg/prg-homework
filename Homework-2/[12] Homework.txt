@@ -1,0 +1,6 @@
+1. ++
+2. sizeof
+3. -
+4. +
+5. %
+// Задание решено при помощи https://msdn.microsoft.com/ru-ru/library/126fe14k.aspx
