@@ -3,4 +3,4 @@
 3. sizeof
 4. %
 5. +
-// Задание решено при помощи https://github.com/KabakRA/prg-course-homework/blob/master/homework2/homework2.12.txt
+// Задание решено при помощи https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%B2_C_%D0%B8_C%2B%2B
