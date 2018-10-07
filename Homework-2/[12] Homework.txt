@@ -1,6 +1,6 @@
 1. ++
-2. sizeof
-3. -
-4. +
-5. %
-// Задание решено при помощи https://msdn.microsoft.com/ru-ru/library/126fe14k.aspx
+2. -
+3. sizeof
+4. %
+5. +
+// Задание решено при помощи https://github.com/KabakRA/prg-course-homework/blob/master/homework2/homework2.12.txt
